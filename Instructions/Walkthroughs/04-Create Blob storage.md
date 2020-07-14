@@ -20,7 +20,7 @@ In this task, we will create a new storage account.
     | Setting | Value | 
     | --- | --- |
     | Subscription | **Choose your subscription** |
-    | Resource group | **myRGStorage** (create new) |
+    | Resource group | **myRGStorage** (Use the existing Resource Group that you have access to) |
     | Storage account name | **storageaccountxxxx** |
     | Location | **(US) East US**  |
     | Performance | **Standard** |

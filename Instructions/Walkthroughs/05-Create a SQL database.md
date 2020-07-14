@@ -21,7 +21,7 @@ In this task, we will create a SQL database based on the AdventureWorksLT sample
     | Setting | Value | 
     | --- | --- |
     | Subscription | **Choose your subscription** |
-    | Resource group | **myRGDb** (create new) |
+    | Resource group | **myRGDb** (Use the existing Resource Group that you have access to) |
     | Database name| **db1** | 
     | | |
 

@@ -18,7 +18,7 @@ In this walkthrough, we will create an Azure Key vault and then create a passwor
     | Setting | Value | 
     | --- | --- |
     | Subscription | **Use your subscription** |
-    | Resource group | **myRGKV** (create new) |
+    | Resource group | **myRGKV** (Use the existing Resource Group that you have access to) |
     | Key vault name | **keyvaulttestxxx** |
     | Location | **East US** |
     | Pricing tier | **Standard** |

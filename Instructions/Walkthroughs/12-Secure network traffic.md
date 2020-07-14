@@ -20,7 +20,7 @@ In this task, we will create a Windows Server 2019 Datacenter virtual machine.
     | Settings | Values |
     |  -- | -- |
     | Subscription | **Choose your subscription**|
-    | Resource group | **myRGSecure** (create new) |
+    | Resource group | **myRGSecure** (Use the existing Resource Group that you have access to) |
     | Virtual machine name | **SimpleWinVM** |
     | Location | **(US) East US**|
     | Image | **Windows Server 2019 Datacenter**|
